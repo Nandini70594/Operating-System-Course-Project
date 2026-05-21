@@ -1,0 +1,9 @@
+ATM RECEIPT                             
+ACCOUNT  : 452189                       
+WITHDRAW : 2000                         
+BALANCE  : 11500                        
+
+
+JOB ID: 0001
+NO ERROR
+TTC=14 LLC=4
